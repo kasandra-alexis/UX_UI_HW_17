@@ -21,7 +21,7 @@
     padding: 114px 19px;
 }
 .homepage-iteration-3 .overlap {
-    background-color: var(--white);
+    background-color: #Ffffff;
     display: flex;
 }
 .flex-col {
@@ -33,7 +33,7 @@
     width: 589px;
 }
 .h1-i-am-kasandra-f {
-    color: var(--black);
+    color: black;
     font-family: var(--font-family-ruda);
     font-size: var (--font-size-xl);
     font-weight: 400;
@@ -54,10 +54,8 @@
     width: auto;
 }
 .empathy-in-every-cl {
-    align-self: flex-end;
-    color: var(--black);
+    color: black;
     font-family: var(--font-family-ruda);
-    font-size: var(--font-size-xxl);
     font-weight: 400;
     letter-spacing: 0;
     line-height: normal;
@@ -67,14 +65,14 @@
 }
 .primary-nav {
     align-items: flex-start;
-    display: flex;
+    display: inline-block;
     margin-top: 44px;
-    min-width: 542px;
+    min-width: auto;
 }
 .overlap-group {
     align-items: flex-end;
     border: 1px solid;
-    border-color: var(--asparagus);
+    border-color: #84A873;
     border-radius: 20px;
     height: 48px;
     justify-content: flex-end;
@@ -92,7 +90,7 @@
 .overlap-group2 {
     align-items: flex-end;
     border: 1px solid;
-    border-color: var(--asparagus);
+    border-color: #84A873;
     border-radius: 20px;
     height: 48px;
     justify-content: flex-end;
@@ -102,7 +100,7 @@
 .overlap-group3 {
     align-items: flex-end;
     border: 1px solid;
-    border-color: var(--asparagus);
+    border-color: #84A873;
     border-radius: 20px;
     height: 48px;
     margin-left: 29px;
@@ -119,7 +117,7 @@
 .overlap-group1 {
     align-items: flex-end;
     border: 1px solid;
-    border-color: var(--asparagus);
+    border-color: #84A873;
     border-radius: 20px;
     height: 48px;
     margin-left: 16px;
