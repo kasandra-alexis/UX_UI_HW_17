@@ -32,10 +32,10 @@
     min-height: 403px;
     width: 589px;
 }
-.h1-i-am-kasandra-f {
+p.kasandraf {
     color: black;
-    font-family: var(--font-family-ruda);
-    font-size: var (--font-size-xl);
+    font-family: 'Ruda', sans-serif;
+    font-size: 35px;
     font-weight: 400;
     letter-spacing: 0;
     line-height: normal;
@@ -55,7 +55,7 @@
 }
 .empathy-in-every-cl {
     color: black;
-    font-family: var(--font-family-ruda);
+    font-family: 'Ruda', sans-serif;
     font-weight: 400;
     letter-spacing: 0;
     line-height: normal;
@@ -64,7 +64,6 @@
     width: 576px;
 }
 .primary-nav {
-    align-items: flex-start;
     display: inline-block;
     margin-top: 44px;
     min-width: auto;
@@ -76,8 +75,8 @@
     border-radius: 20px;
     height: 48px;
     justify-content: flex-end;
-    margin-left: 25px;
-    min-width: 116px;
+    margin-left: 20px;
+    min-width: 50px;
     padding: 3px 9px;
 }
 .link {
@@ -94,7 +93,7 @@
     border-radius: 20px;
     height: 48px;
     justify-content: flex-end;
-    min-width: 116px;
+    min-width: 50px;
     padding: 1px 8px;
 }
 .overlap-group3 {
@@ -103,8 +102,8 @@
     border-color: #84A873;
     border-radius: 20px;
     height: 48px;
-    margin-left: 29px;
-    min-width: 116px;
+    margin-left: 20px;
+    min-width: 50px;
     padding: 2px 32px;
 }
 .work {
@@ -120,8 +119,8 @@
     border-color: #84A873;
     border-radius: 20px;
     height: 48px;
-    margin-left: 16px;
-    min-width: 116px;
+    margin-left: 20px;
+    min-width: 50px;
     padding: 3px 15px;
 }
 .place {
@@ -132,7 +131,7 @@
     width: 83px;
 }
 .kasHEIC {
-    height: 350px;
+    height: 450px;
   
     width: auto;
 }
